@@ -1,0 +1,13 @@
+header {
+    background-color: blue;
+}
+
+.info > h2{
+    background-color: red;
+    color: aliceblue;
+}
+
+.info >h3 {
+    background-color: black;
+    color: beige;
+}
